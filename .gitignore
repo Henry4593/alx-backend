@@ -1,2 +1,4 @@
 0-main.py
 __pycache__
+my_env
+.mypy_cache
